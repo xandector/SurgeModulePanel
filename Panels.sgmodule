@@ -21,31 +21,31 @@ Sub_info = script-name=Sub_info,update-interval = 43200
 Sub_info = script-name=Sub_info,update-interval = 43200
 
 #策略组面板 可重复配置 注意修改相应字段
-groupPanel= script-name=groupPanel,update-interval=5
+groupPanel= script-name=groupPanel01,update-interval=5
 
-groupPanel= script-name=groupPanel,update-interval=5
+groupPanel= script-name=groupPanel02,update-interval=5
 
-groupPanel= script-name=groupPanel,update-interval=5
+groupPanel= script-name=groupPanel03,update-interval=5
 
-groupPanel= script-name=groupPanel,update-interval=5
+groupPanel= script-name=groupPanel04,update-interval=5
 
-groupPanel= script-name=groupPanel,update-interval=5
+groupPanel= script-name=groupPanel05,update-interval=5
 
-groupPanel= script-name=groupPanel,update-interval=5
+groupPanel= script-name=groupPanel06,update-interval=5
 
-groupPanel= script-name=groupPanel,update-interval=5
+groupPanel= script-name=groupPanel07,update-interval=5
 
-groupPanel= script-name=groupPanel,update-interval=5
+groupPanel= script-name=groupPanel08,update-interval=5
 
-groupPanel= script-name=groupPanel,update-interval=5
+groupPanel= script-name=groupPanel09,update-interval=5
 
-groupPanel= script-name=groupPanel,update-interval=5
+groupPanel= script-name=groupPanel10,update-interval=5
 
-groupPanel= script-name=groupPanel,update-interval=5
+groupPanel= script-name=groupPanel11,update-interval=5
 
-groupPanel= script-name=groupPanel,update-interval=5
+groupPanel= script-name=groupPanel12,update-interval=5
 
-groupPanel= script-name=groupPanel,update-interval=5
+groupPanel= script-name=groupPanel13,update-interval=5
 
 [Script]
 #附带重载配置,Surge Pro标题,可显示启动时间,点击刷新为重载配置
@@ -73,28 +73,28 @@ Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com
 
 #策略组面板 可重复配置 注意修改相应字段
 #必须更改的字段：group 填写需要显示的策略组名称
-groupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🚀 节点选择
+groupPanel01 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🚀 节点选择
 
-groupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🚀 手动切换
+groupPanel02 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🚀 手动切换
 
-groupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=♻️ 自动选择
+groupPanel03 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=♻️ 自动选择
 
-groupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=📲 电报消息
+groupPanel04 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=📲 电报消息
 
-groupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=📹 油管视频
+groupPanel05 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=📹 油管视频
 
-groupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🎥 奈飞视频
+groupPanel06 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🎥 奈飞视频
 
-groupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=📺 哔哩哔哩
+groupPanel07 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=📺 哔哩哔哩
 
-groupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🌍 国外媒体
+groupPanel08 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🌍 国外媒体
 
-groupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🌏 国内媒体
+groupPanel09 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🌏 国内媒体
 
-groupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🍎 苹果服务
+groupPanel10 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🍎 苹果服务
 
-groupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🎮 游戏平台
+groupPanel11 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🎮 游戏平台
 
-groupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🎯 全球直连
+groupPanel12 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🎯 全球直连
 
-groupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🍎🐟 漏网之鱼
+groupPanel13 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=🍎🐟 漏网之鱼
