@@ -50,15 +50,15 @@ NET_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com
 
 #Nixitally信息
 #必须修改的字段:你encode后的机场订阅链接
-Sub_info_1 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js ,script-update-interval=0,argument=url=https%3A%2F%2Fnaixisubs.com%2FdownloadConfig%2FShadowRocketImportService.aspx%3Ft%3Dssn%26urk%3De224e991-b95f-4342-bc90-24164d03d6c9&reset_day=15&title=Nixitally&icon=n.circle.fill&color=#5AC8FA
+Sub_info_1 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js ,script-update-interval=0,argument=url=【】&reset_day=15&title=Nixitally&icon=n.circle.fill&color=#5AC8FA
 
 #FlowerCloud信息
 #必须修改的字段:你encode后的机场订阅链接
-Sub_info_2 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js ,script-update-interval=0,argument=url=https%3A%2F%2Fapi.flowercloud.xyz%2Fosubscribe.php%3Fsid%3D4903%26token%3DCbQ6F76mEYEQ%26ssr%3D1&reset_day=5&title=FlowerCloud&icon=leaf.circle.fill&color=#5AC8FA
+Sub_info_2 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js ,script-update-interval=0,argument=url=【】&reset_day=5&title=FlowerCloud&icon=leaf.circle.fill&color=#5AC8FA
 
 #薯条信息
 #必须修改的字段:你encode后的机场订阅链接
-Sub_info_3 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js ,script-update-interval=0,argument=url=https%3A%2F%2Ffast.losadhwselfff2332dasd.xyz%2Flink%2F3mrKuUjXDq7F8EZt%3Fsub%3D1&title=CNIX&icon=antenna.radiowaves.left.and.right.circle.fill&color=#5AC8FA
+Sub_info_3 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js ,script-update-interval=0,argument=url=【】&title=CNIX&icon=antenna.radiowaves.left.and.right.circle.fill&color=#5AC8FA
 
 
 #策略组面板 可重复配置 注意修改相应字段
